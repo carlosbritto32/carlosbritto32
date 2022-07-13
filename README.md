@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align='center'>👋🏻Hello there! I'm Carlos Britto 💻</h1>
 
-<p align='center'>
+<p align='start'>
     I’m a Frontend developer passionate about software development and tech industry, the technologies that I used are ReactJs, JavaScript, Html, CSS, and always trying to improve and keep learning about web technologies, I considered myself with ability to solve problems and good at teamwork with GitHub using GitFlow and Fork Flow!
 
 <hr>
